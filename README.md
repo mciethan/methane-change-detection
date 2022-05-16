@@ -1,2 +1,1 @@
-# methane-change-detection
-Google Earth Engine scripts for change detection analyses of methane emissions from TROPOMI data
+These files are archived copies of Google Earth Engine scripts I wrote for a school project in which I performed change detection analyses on TROPOMI methane data to try and identify possible large leak events coming from oil and natural gas production sites.  

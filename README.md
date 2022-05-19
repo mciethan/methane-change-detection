@@ -4,7 +4,7 @@ Read the full project paper here: https://drive.google.com/file/d/1bWrOVr1GtMD-L
 
 ## File Descriptions
 
-Below, I briefly describe the main script files that I used in my analysis.  The other files were basically for scratch purposes.
+Below, I briefly describe the main script files that I used in my analysis.  The other files in this repository were basically used for scratch purposes.
 
 Note: XCH4 refers to column-averaged dry-air methane mole fraction, measured in parts per billion.  
 
